@@ -29,11 +29,10 @@ Here are a few examples of what I've worked on — more on my [portfolio site](h
 ---
 
 ## 🧠 Currently Learning
-
-- API security & integrations  
-- Cribl LogStream  
+  
+- Compliance and Risk 
 - Python for blue teaming  
-- Building labs & case studies
+- Investigating Cybersecurity incidents
 
 ---
 
