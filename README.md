@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luis Cruz
 
-🔐 **Cybersecurity Analyst and U.S. Army veteran** with a decade of enterprise IT experience and a focus on where security meets AI and automation.
+🔐 **Cybersecurity Analyst and U.S. Army veteran** with a decade of enterprise IT experience and a focus on where security meets AI and automation. Founder of [Boriken AI Consulting LLC](https://borikenaiconsulting.com), a NJ-based small-business cybersecurity consultancy.
 
 Most of my recent work has been on using LLMs and Python to accelerate the workflows security teams hate doing by hand — SOC 2 and ISO 27001 control mapping, policy gap analysis, vulnerability tracking, and audit readiness. I like building tools that make defenders stronger and compliance less painful.
 
@@ -16,10 +16,11 @@ Most of my recent work has been on using LLMs and Python to accelerate the workf
 ---
 ## 💼 Featured Projects
 Here are a few examples of what I've worked on — more on my [portfolio site](https://luiscruz-cyber.github.io):
+- 🧠 **[Compliance Prompts](https://github.com/luiscruz-cyber/compliance-prompts)** – Curated LLM prompts for SOC 2, ISO 27001, and security compliance workflows. Practitioner-tested prompts for control readiness, policy gap analysis, evidence collection, and Splunk SPL generation.
 - 🧪 **[Honeypot: California](https://github.com/luiscruz-cyber/honeypot-california)** – My first project! Deployed and analyzed a honeypot. [Blog Post](https://medium.com/@cruz.luis.us/honeypot-california)
-- 🛠️ **[Capture the Flag Walkthrough](https://github.com/luiscruz-cyber/ctf-walkthrough)** – Realistic CTF challenge with step-by-step enumeration and privilege escalation.
+- 🛠️ **[Capture the Flag Walkthrough](https://github.com/luiscruz-cyber/rootme-ctf-multi-challenge)** – Realistic CTF challenge with step-by-step enumeration and privilege escalation.
 - 🧰 **[Python Security Scripts](https://github.com/luiscruz-cyber/write-and-run-scripts-in-python)** – Automated malicious file detection and neutralization with custom logic.
-- 🧠 **[Cybersecurity Threat Watch](https://github.com/luiscruz-cyber/cybersecurity-watch)** – Researched and reported on real-world threats and MITRE ATT&CK mappings.
+- 🧠 **[Cybersecurity Threat Watch](https://github.com/luiscruz-cyber/Cybersecurity-Watch)** – Researched and reported on real-world threats and MITRE ATT&CK mappings.
 
 👉 **Explore more projects on my portfolio:** [luiscruz-cyber.github.io](https://luiscruz-cyber.github.io)
 
